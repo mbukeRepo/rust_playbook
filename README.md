@@ -1,4 +1,4 @@
-# rust-bible
+# My Rust Bible
 
 ## Getting started
 
