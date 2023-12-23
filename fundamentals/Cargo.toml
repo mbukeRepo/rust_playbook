@@ -13,3 +13,4 @@ path = "src/activity_lib.rs"
 [dependencies]
 humantime = "2.1.0"
 chrono = "0.4.31"
+thiserror = "1.0"
